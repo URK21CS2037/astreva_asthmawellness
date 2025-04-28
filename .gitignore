@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# Vite / React build
+dist/
+
+# Python
+__pycache__/
+*.pyc
+ml-api/__pycache__/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
